@@ -22,9 +22,10 @@ I'm Piyush Kumar!
 <h2>👀 GitHub Stats</h2>
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushkumar102&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushkumar102&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar102&layout=compact)](#)
+
 
 <h2>📫 How to reach me:</h2>
 
