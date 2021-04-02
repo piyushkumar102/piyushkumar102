@@ -20,7 +20,7 @@ I'm Piyush Kumar!
 - <i>Previously:</i> B.Tech IT Student at Sri Krishna College of Technology.
 
 <h2>👀 GitHub Stats</h2>
-
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar102)](#)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushkumar102&theme=dark&show_icons=true)
 
