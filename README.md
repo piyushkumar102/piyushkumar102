@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+[![GitHub followers](https://img.shields.io/github/followers/piyushkumar102.svg?style=social&label=Follow)](https://github.com/piyushkumar102?tab=followers)
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushkumar102&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar102&layout=compact)
 <a href="mailto:piyush.kumarmaloo@gmail.com">![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
