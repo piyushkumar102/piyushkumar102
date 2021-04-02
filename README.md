@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushkumar102&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar102&layout=compact)
-<a href="mailto:piyush.kumarmaloo@gmail.com">[E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:piyush.kumarmaloo@gmail.com">![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="<https://www.linkedin.com/in/piyushkumar10/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
