@@ -28,12 +28,12 @@ I'm Piyush Kumar!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar102&layout=compact)](#)
 
-
-<h2>📫 How to reach me:</h2>
-
 <h2> About Piyush⚡:</h2>
 
 Get to know more about me [here](https://piyushkumar10.tech)!
+
+<h2>📫 How to reach me:</h2>
+
 
 <a href="mailto:piyush.kumarmaloo@gmail.com">![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="<https://www.linkedin.com/in/piyushkumar10/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
