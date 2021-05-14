@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/piyushkumar102.svg?style=social&label=Follow)](https://github.com/piyushkumar102?tab=followers)
 
 I'm Piyush Kumar! 
-- <i>Currently:</i>  Looking for new opportunities.
+- <i>Currently:</i>  Software Engineer @Rapidken.ai
 - <i>Previously:</i> B.Tech IT Student at Sri Krishna College of Technology.
 
 <h2>👀 GitHub Stats</h2>
